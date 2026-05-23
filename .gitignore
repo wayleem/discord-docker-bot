@@ -1,0 +1,15 @@
+dist
+node_modules
+
+# --- added by backup prep ---
+.env
+.env.*
+!.env.example
+node_modules/
+.venv/
+venv/
+myenv/
+env/
+.claude/
+*.pem
+*.key
